@@ -1,7 +1,7 @@
 ---
 title: "Class 7: Machine Learning 1"
 author: "Lynette"
-format: pdf
+format: gfm
 ---
 
 Today we will start our multi-part exploration of some key machine learning methods. We will begin with clustering - finding groupingd in data, and then dimensionality reduction.

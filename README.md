@@ -8,16 +8,24 @@ My classwork for [BIMM143 Spring 2024] (https://bioboot.github.io/bimm143_S24/) 
   
 - **Class 7** [Machine Learning 1](https://github.com/lynetteloo/bimm143_github/blob/main/Class07/Class07.pdf)
 
-- **Class 8** [R functions]
+- **Class 8** [R functions]()
 
-- **Class 9** [R functions]
+- **Class 9** [R functions]()
 
-- **Class 10** [R functions]
+- **Class 10** [R functions]()
 
-- **Class 11** [R functions]
+- **Class 11** [R functions]()
 
-- **Class 12** [R functions]
+- **Class 12** [R functions]()
 
-- **Class 13** [R functions]
+- **Class 13** [R functions]()
 
-- **Class 14** [R functions]
+- **Class 14** [R functions]()
+
+- **Class 15** [R functions]()
+
+- **Class 16** [R functions]()
+
+- **Class 17** [R functions]()
+
+- **Class 18** [R functions]()
